@@ -31,26 +31,6 @@ $(document).ready(function () {
 
 
 
-/*--------------------------------------------------------------
-# 滑鼠監聽
---------------------------------------------------------------*/
-
-var links = document.getElementsByClassName("myLink");
-
-for (var i = 0; i < links.length; i++) {
-  links[i].addEventListener("mouseover", function() {
-    changeColor(this);
-  });
-
-  links[i].addEventListener("mouseout", function() {
-    restoreColor(this);
-  });
-}
-
-function changeColor(element) {
-  element.style.color = "#47B2E4";
-  element.style.textDecoration = "underline";
-}
 
 function restoreColor(element) {
   element.style.color = ""; 
