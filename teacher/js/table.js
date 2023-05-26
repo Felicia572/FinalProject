@@ -2,7 +2,7 @@
 # 表格設定
 --------------------------------------------------------------*/
 $(document).ready(function () {
-    $('#mytable').DataTable({
+    $('.mytable').DataTable({
         "autoWidth": true,
         "info": true,
         "language": {
