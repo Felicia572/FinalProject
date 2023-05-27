@@ -1827,10 +1827,33 @@ section {
 /*--------------------------------------------------------------
 # DataTable
 --------------------------------------------------------------*/
+.datatable-title {
+  text-align: center;
+}
+
+.datatable-title h2 {
+  font-size: 32px;
+  font-weight: bold;
+  text-transform: uppercase;
+  position: relative;
+}
+
+.datatable-complex {
+  text-align: center;
+}
+
 .dataTables_wrapper {
   max-width: 900px;
   margin: 70px auto;
   padding: 20px;
-  background-color:#f3f5fa; 
+  background-color: #f3f5fa;
   /* border: #37517e solid; */
+}
+
+.diy_hover tbody:hover td {
+  background: #8fbfd5;
+}
+
+.diy_hover tbody tr td {
+  vertical-align:middle;
 }
