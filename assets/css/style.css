@@ -1834,8 +1834,8 @@ section {
 .datatable-title h2 {
   font-size: 32px;
   font-weight: bold;
-  text-transform: uppercase;
   position: relative;
+  color:#37517E;
 }
 
 .datatable-complex {
