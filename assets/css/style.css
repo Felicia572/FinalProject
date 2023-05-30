@@ -1835,7 +1835,7 @@ section {
   font-size: 32px;
   font-weight: bold;
   position: relative;
-  color:#37517E;
+  color: #37517E;
 }
 
 .datatable-complex {
@@ -1844,7 +1844,7 @@ section {
 
 .dataTables_wrapper {
   max-width: 900px;
-  margin: 70px auto;
+  margin: 20px auto;
   padding: 20px;
   background-color: #f3f5fa;
   /* border: #37517e solid; */
@@ -1854,6 +1854,17 @@ section {
   background: #8fbfd5;
 }
 
-.diy_hover tbody tr td {
-  vertical-align:middle;
+#datatable tbody tr td {
+  vertical-align: middle;
+}
+
+#datatable table button {
+  display: block; 
+  margin: 0 auto;
+}
+
+#datatable p{
+  margin: 20px auto;
+  max-width: 900px;
+
 }
