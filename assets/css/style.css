@@ -1847,7 +1847,7 @@ section {
   margin: 20px auto;
   padding: 20px;
   background-color: #f3f5fa;
-  /* border: #37517e solid; */
+  border: #000000 ;
 }
 
 .diy_hover tbody:hover td {
