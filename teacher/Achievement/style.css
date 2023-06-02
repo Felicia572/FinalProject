@@ -116,6 +116,7 @@
     font-weight: 500;
     font-family: "Jost", sans-serif;
     transition: 0.3s;
+    margin: 20px;
     border: 1px solid #47b2e4;
 }
 
@@ -124,6 +125,10 @@
     color: #fff;
 }
 
+
+.achieve .member:hover h4 {
+    color: #47b2e4;
+}
 
 .achieve .icon-box:hover h4 {
     color: #47b2e4;
