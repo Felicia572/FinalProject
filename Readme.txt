@@ -1,6 +1,22 @@
-Thanks for downloading this template!
+//WEB前端_期末作業
+//組員: 409170177, 410170483, 410402642
 
-Template Name: Arsha
-Template URL: https://bootstrapmade.com/arsha-free-bootstrap-html-template-corporate/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+
+
+/*--- 相關資源下載 ---*/
+僅以下部分有檔案頁面: 
+
+01標準作業流程(共2項有頁面)
+> 教學成果獎作業流程、教學助理作業流程
+
+02教學績優獎(共2項有頁面)
+>  教學績優獎推薦表、教學績優獎勵辦法
+
+03簡報範本(共2項有頁面)
+> 高教深耕計畫、宗教主題
+
+04創新跨領域學院(共1項有頁面)
+>  金融大數據微學程
+
+05數位學習與遠距教學(共2項有頁面)
+>  開放式課程、遠距教學課程
